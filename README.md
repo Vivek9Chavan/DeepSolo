@@ -9,7 +9,7 @@
 </p >
 This is the official repo for the papers:
 
-> [**DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting**](https://arxiv.org/abs/2211.10772)
+> [**AUT Project Work DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting**](https://arxiv.org/abs/2211.10772)
 > 
 > [**DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilingual Text Spotting**](https://arxiv.org/abs/2305.19957)
 
